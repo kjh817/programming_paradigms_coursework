@@ -6,5 +6,5 @@ These are assignments I completed for my Programming Paradigms course, taught by
 ## How to Run
 Simply navigate to the assignment directory, run the build script, then run the compiled Java.
 
-*The JS implementation just needs to be opened in the browser. For the multiplayer inpmlementation, the server needs to be compiled and run.
-Assignment 9 was written in Python 3. *
+*The JS implementation just needs to be opened in the browser. For the multiplayer inpmlementation, the server needs to be compiled and run.*
+*Assignment 9 was written in Python 3.*
